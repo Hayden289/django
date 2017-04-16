@@ -3,7 +3,14 @@ a {
     text-shadow: black 6px 3px 5px;
 }
 
+ul, form {
+    text-align: left;
+    width: 400px;
+    margin: 0 auto;
+}
+
 body {
+    text-align: center;
     color: #ffffff;
     text-shadow: black 6px 3px 5px;
     background: white url("images/background.jpg") no-repeat right bottom;
