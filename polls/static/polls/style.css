@@ -1,0 +1,11 @@
+a {
+    color: #ffffff;
+    text-shadow: black 6px 3px 5px;
+}
+
+body {
+    color: #ffffff;
+    text-shadow: black 6px 3px 5px;
+    background: white url("images/background.jpg") no-repeat right bottom;
+    height: 100%;
+}
